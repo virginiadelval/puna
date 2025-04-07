@@ -231,7 +231,7 @@ var TendidoElectrico = L.geoJSON(electrico,
 			fillColor: '#F06509FF',
 			weight: 3,
 			opacity: 1,
-			color: '#F06509FF',
+			color: '#185C03FF',
 			dashArray: 0,
 			fillOpacity: 0.8
 		},
